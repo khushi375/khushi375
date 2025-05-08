@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔹 Tech Stack: HTML  CSS  JavaScript  React  Tailwind CSS
+<br>🔹 Tech Stack: HTML  CSS  JavaScript  React  Tailwind CSS<br>
 🔹 Currently Exploring: Next.js  UI/UX Design Principles<br>
 🔹 Looking for: Internship or entry-level opportunities to grow my skills and contribute meaningfully
 <br>
@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Khushi Jain  ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/khushi-jain-b28789323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
